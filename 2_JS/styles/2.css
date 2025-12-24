@@ -1,0 +1,22 @@
+body{
+margin: 0;
+padding: 0;
+background-color: darkslategray;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+p{
+    color: white;
+    font-family: serif;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    border: 6px solid black;
+    border-radius: 3%;
+}
